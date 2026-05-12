@@ -1,8 +1,8 @@
 # Desafio MBA Engenharia de Software com IA - Full Cycle
 
-Descreva abaixo como executar a sua solução.
+Instruções de como preparar o ambiente e executar a aplicação
 
-# 1. API_KEU
+# 1. API_KEY
 Inclua a API_KEY da Gemini no parametro GOOGLE_API_KEY do arquivo .en
 
 # 2. Crie e ative um ambiente virtual antes de instalar dependências:
@@ -20,6 +20,8 @@ python src/ingest.py
 
 # 6. Rodar o chat:
 python src/chat.py
+
+## Usando a aplicação
 
 # 7. Realizar perguntas sobre o PDF
 
